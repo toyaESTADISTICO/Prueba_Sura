@@ -1,7 +1,9 @@
 # Prueba_Sura
 PRUEBA TÉCNICA PARA ASPIRANTES A CARGO DE ANALISTA DE ANALÍTICA EN LA DIRECCIÓN DE ANALÍTICA &amp; IA EN LA GERENCIA DE BIOCIENCIAS SEGUROS SURA COLOMBIA
 
-Se usaron los archivos 
+Para entender los codigos y sus resultados ver el archivo PDF llamado: Documentacion
+
+Se usaron los archivos como insumo de los datos :
 
 30-70cancerChdEtc.csv
 airPollutionDeathRate.csv
